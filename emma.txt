@@ -1,3 +1,0 @@
-The folling are the local git repo
-
-Lets now learn about remote repo
